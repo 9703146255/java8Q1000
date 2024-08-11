@@ -1,0 +1,1158 @@
+1. How do you check if a number is a prime number using Java 8 streams?
+2. Given a list of employees, how do you find the highest salary?
+3. Find all unique elements in a list of strings.
+4. How do you check if a string contains only digits using Java 8 streams?
+5. Find the median of a list of integers.
+6. How do you filter a list to include only strings with more than 3 characters?
+7. Given a list of people, find the oldest person.
+8. Convert a map to a list of its values using streams.
+9. How do you find the longest string in a list?
+10. Given a list of numbers, calculate the product of all elements.
+11. How do you find the average of a list of doubles?
+12. Find all distinct characters in a string using streams.
+13. How do you concatenate a list of strings into a single string with a specific delimiter?
+14. Given a list of integers, find the smallest number greater than a given value.
+15. How do you create a list of integers from a range of numbers?
+16. Find the total number of elements in a list of strings that have a specific length.
+17. How do you group a list of strings by their length?
+18. Given a string, find the number of occurrences of each word.
+19. How do you remove all occurrences of a specific element from a list?
+20. Find the first string in a list that contains a specific substring.
+Let me know when you're ready for the next set!
+
+
+
+
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+21. How do you find the second smallest number in a list using Java 8 streams?
+22. Given a list of numbers, find the sum of squares of all numbers less than a given threshold.
+23. How do you remove duplicates from a list of objects based on a specific field using streams?
+24. Find all strings in a list that end with a specific suffix.
+25. How do you sort a list of strings in natural order using Java 8 streams?
+26. Given a list of numbers, find all numbers that are prime.
+27. How do you find the maximum length of strings in a list?
+28. Find the sum of all even numbers in a list of integers.
+29. How do you convert a list of integers to a set of their squares using streams?
+30. Given a list of employees, group them by department and find the average salary in each department.
+31. How do you find the longest common prefix in a list of strings?
+32. Find all the unique substrings of a given string.
+33. How do you find the difference between the largest and smallest values in a map?
+34. Given a list of integers, find the frequency of each number.
+35. How do you convert a list of strings to a map where the key is the string and the value is its length?
+36. Find all strings in a list that contain a specific character.
+37. How do you calculate the variance of a list of numbers?
+38. Given a list of strings, find all the strings that are palindromes.
+39. How do you reverse a list of integers using streams?
+40. Find the total number of occurrences of a specific character in a list of strings.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+41. How do you find the smallest even number in a list using Java 8 streams?
+42. Given a list of strings, remove all strings that contain a specific substring.
+43. How do you calculate the sum of the first N numbers in a list?
+44. Find the common elements between two lists using streams.
+45. How do you find the median value of a list of numbers?
+46. Given a list of strings, find the string with the maximum number of vowels.
+47. How do you find the longest string that starts with a vowel in a list?
+48. Find the total count of all words in a list of sentences.
+49. How do you convert a list of strings into a single string with each word capitalized?
+50. Given a list of integers, find all numbers that are divisible by a given number.
+51. How do you get the unique combinations of two elements from a list?
+52. Find the average length of strings in a list, excluding those shorter than a given length.
+53. How do you filter a list to include only strings that start with a specific letter?
+54. Given a list of objects with dates, find the most recent date.
+55. How do you find the maximum difference between any two elements in a list?
+56. Find the sum of the digits of each integer in a list.
+57. How do you create a list of distinct elements from a nested list using streams?
+58. Given a list of numbers, find the frequency of each digit.
+59. How do you partition a list into two lists based on a condition using streams?
+60. Find the longest string that does not contain any vowel.
+Let me know when you’re ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+61. How do you find the average of integers in a list that are greater than a specific value?
+62. Given a list of employees, find the employee with the highest number of completed projects.
+63. How do you group a list of integers by their parity (even or odd)?
+64. Find all strings in a list that contain at least one digit.
+65. How do you convert a list of integers to their binary representation?
+66. Given a list of strings, find the string with the fewest number of vowels.
+67. How do you check if a list contains any null elements using streams?
+68. Find the sum of all odd numbers in a list of integers.
+69. How do you find the smallest string in a list based on its length?
+70. Given a list of dates, find the earliest date.
+71. How do you count the number of times a specific word appears in a list of sentences?
+72. Find all integers in a list that are greater than the average of the list.
+73. How do you filter a list of objects based on a specific attribute value?
+74. Given a list of names, find those that start with the letter 'S'.
+75. How do you find the second largest string in a list based on its length?
+76. Find the sum of all elements in a list of floating-point numbers.
+77. How do you get the distinct elements from a list of objects based on a specific field?
+78. Given a list of integers, find the maximum and minimum of the even numbers only.
+79. How do you split a list of strings into multiple sublists of a given size?
+80. Find the average length of words in a list of strings, excluding any words longer than a specific length.
+Let me know when you’re ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+81. How do you find the total number of distinct elements in a list of integers?
+82. Given a list of strings, find all strings that are longer than the average length of the list.
+83. How do you find the most frequent element in a list of integers?
+84. Find the sum of all integers in a list that are not divisible by a given number.
+85. How do you convert a list of integers to a list of their hexadecimal representations?
+86. Given a list of people, find the average age of people who work in a specific department.
+87. How do you find the first N elements from a list that meet a specific condition?
+88. Find all strings in a list that are anagrams of a given string.
+89. How do you filter a list of objects to include only those with a specific attribute value?
+90. Given a list of dates, find the most frequent year.
+91. How do you find the total number of words in a list of sentences that contain a specific letter?
+92. Find the longest word in a list that does not contain a specific character.
+93. How do you partition a list of integers into two lists based on whether they are greater than or less than a given value?
+94. Given a list of strings, find all strings that are palindromes.
+95. How do you convert a list of integers to their factorials?
+96. Find the sum of the lengths of all strings in a list.
+97. How do you group a list of integers by their divisibility by a given number?
+98. Given a list of objects with dates, find the oldest date.
+99. How do you find all substrings of a given length in a string?
+100. Find the sum of the ASCII values of all characters in a string.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+101. How do you find the median of a list of floating-point numbers?
+102. Given a list of names, find the name that appears most frequently.
+103. How do you count the number of unique characters in a string using Java 8 streams?
+104. Find all integers in a list that are less than a given value and are prime.
+105. How do you check if all elements in a list are positive using Java 8 streams?
+106. Given a list of strings, find all strings that contain exactly N characters.
+107. How do you find the longest substring without repeating characters in a string?
+108. Find all integers in a list that are multiples of a given number.
+109. How do you convert a list of strings to their reverse using Java 8 streams?
+110. Given a list of people, find the person with the most recent hire date.
+111. How do you count the number of occurrences of each character in a string?
+112. Find the sum of the cubes of all numbers in a list.
+113. How do you filter a list of objects to include only those that have a non-null attribute?
+114. Given a list of dates, find the latest date in each year.
+115. How do you sort a list of objects by a specific field using Java 8 streams?
+116. Find the frequency of each word in a list of sentences.
+117. How do you find all unique characters from a list of strings?
+118. Given a list of integers, find all numbers that are neither divisible by 2 nor by 3.
+119. How do you find the total number of elements that satisfy a specific condition in a list?
+120. Find all strings in a list that are anagrams of each other.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+121. How do you convert a list of objects to a set of their unique attributes using Java 8 streams?
+122. Given a list of integers, find all elements that are greater than the average of the list.
+123. How do you find the shortest string in a list that contains a specific character?
+124. Find the sum of all integers in a list that are less than a specific threshold and are even.
+125. How do you create a map from a list of objects where the key is a specific attribute and the value is another attribute?
+126. Given a list of strings, find the number of strings that contain both uppercase and lowercase letters.
+127. How do you find the longest common suffix in a list of strings?
+128. Find all integers in a list that are prime and less than a given number.
+129. How do you count the number of elements in a list that are above a specific percentile?
+130. Given a list of dates, find all dates in a specific month.
+131. How do you filter a list of strings to include only those that have a length divisible by a given number?
+132. Find the total number of distinct words in a list of sentences.
+133. How do you get the index of the first occurrence of a specific element in a list?
+134. Given a list of people, find the person with the highest number of awards.
+135. How do you find the smallest string in a list based on alphabetical order?
+136. Find the average length of strings in a list that do not contain a specific character.
+137. How do you find all substrings of a given string that are palindromes?
+138. Given a list of objects with numeric attributes, find the object with the maximum attribute value.
+139. How do you partition a list into sublists where each sublist contains elements of a specific range?
+140. Find all unique integers from a list of integers and their squares.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+141. How do you find all elements in a list that are neither divisible by 2 nor by 3 using Java 8 streams?
+142. Given a list of strings, find all strings that are palindromes of a specific length.
+143. How do you create a list of integers from 1 to N using streams?
+144. Find the longest string in a list that does not start with a specific letter.
+145. How do you get the total number of elements in a list of objects that have a non-null attribute?
+146. Given a list of numbers, find the first number greater than a specific value.
+147. How do you create a list of all possible pairs from a list of integers?
+148. Find the total sum of the lengths of strings in a list that contain a specific substring.
+149. How do you remove duplicates from a list of objects based on a specific method or field?
+150. Given a list of dates, find the dates that fall within a specific year range.
+151. How do you calculate the difference between the maximum and minimum lengths of strings in a list?
+152. Find all integers in a list that are divisible by 5 but not by 10.
+153. How do you find the most frequent substring of a given length in a list of strings?
+154. Given a list of names, find the name with the shortest length that starts with a specific letter.
+155. How do you convert a list of strings to a list of their word counts using streams?
+156. Find the number of distinct strings in a list that contain a specific letter.
+157. How do you calculate the sum of the ASCII values of characters in each string in a list?
+158. Given a list of integers, find all numbers that are less than a given value and are not prime.
+159. How do you find the smallest number in a list that is not a multiple of a given number?
+160. Find all elements in a list of integers that are greater than the average but less than a specific threshold.
+Let me know when you're ready for the next set!
+
+
+2/2
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+161. How do you find the longest substring in a string that contains only unique characters?
+162. Given a list of strings, find the total number of unique words across all strings.
+163. How do you filter a list to include only those elements that are greater than the median value?
+164. Find the number of distinct characters in a string that appear more than once.
+165. How do you find all pairs of elements in a list whose sum equals a given value?
+166. Given a list of dates, find the earliest date that occurs after a specific date.
+167. How do you find the second most frequent element in a list?
+168. Find all strings in a list that are anagrams of a given pattern.
+169. How do you get the sum of all integers in a list that are divisible by a given number but not a multiple of another number?
+170. Given a list of integers, find all numbers that are perfect squares.
+171. How do you find the maximum frequency of any character in a string using Java 8 streams?
+172. Find all dates in a list that fall on a specific day of the week.
+173. How do you create a list of integers from a specific range with a step value using streams?
+174. Given a list of strings, find the string with the smallest number of vowels.
+175. How do you find all strings in a list that contain a specific substring at least twice?
+176. Find the sum of the squares of all numbers in a list that are greater than the median value.
+177. How do you group a list of strings by their length and sort each group in alphabetical order?
+178. Given a list of objects with a numeric field, find the average value of that field.
+179. How do you find all numbers in a list that are not multiples of 2, 3, or 5?
+180. Find all strings in a list that have an even length and contain a specific character.
+Let me know when you're ready for the next set!
+
+
+2/2
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+181. How do you find the first N elements in a list that are greater than the median value?
+182. Given a list of strings, find all strings that have a specific prefix and are longer than a given length.
+183. How do you compute the sum of the lengths of all strings in a list that do not contain any digits?
+184. Find the total count of unique words in a list of sentences that do not contain a specific letter.
+185. How do you find the largest prime number in a list of integers?
+186. Given a list of numbers, find the sum of all numbers that are greater than the average and less than a given threshold.
+187. How do you create a list of all substrings of a given length from a string using streams?
+188. Find the total number of elements in a list that are divisible by 2 but not by 3.
+189. How do you find all strings in a list that contain a specific substring but not at the beginning or end?
+190. Given a list of dates, find the date closest to today.
+191. How do you group a list of objects by a specific attribute and find the average of another attribute within each group?
+192. Find the longest word in a list that does not contain any repeating characters.
+193. How do you find all elements in a list that are multiples of a specific number but not of another number?
+194. Given a list of strings, find all strings that have a specific number of vowels.
+195. How do you find the top N most frequent elements in a list?
+196. Find the total number of characters in a list of strings that are not vowels.
+197. How do you find all strings in a list that are longer than a given length and contain at least one digit?
+198. Given a list of integers, find the sum of all prime numbers that are less than a given threshold.
+199. How do you find the maximum difference between any two elements in a list using streams?
+200. Find all elements in a list of integers that are greater than a given number and are not prime.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+201. How do you find the longest common prefix among a list of strings using Java 8 streams?
+202. Given a list of integers, find the number of elements that are both divisible by 3 and greater than a given threshold.
+203. How do you calculate the sum of all digits in a list of integers where each digit appears more than once?
+204. Find the average length of strings in a list that start with a specific letter.
+205. How do you find all strings in a list that contain exactly N digits?
+206. Given a list of objects with dates, find the latest date that occurs before a specific date.
+207. How do you find all numbers in a list that are neither prime nor composite?
+208. Find the total number of words in a list of sentences that end with a specific punctuation mark.
+209. How do you convert a list of objects to a map where the key is the object's attribute and the value is a list of objects with that attribute?
+210. Given a list of strings, find all strings that are palindromes of a specific length and do not contain a specific character.
+211. How do you find the most frequent substring of a given length in a list of strings?
+212. Find all dates in a list that fall within the last N days.
+213. How do you get the first N unique elements from a list using Java 8 streams?
+214. Given a list of integers, find the sum of all even numbers that are not multiples of a specific number.
+215. How do you filter a list of objects to include only those with a non-null and non-empty string attribute?
+216. Find the total number of distinct elements in a list of strings that contain both uppercase and lowercase letters.
+217. How do you find all integers in a list that are perfect cubes?
+218. Given a list of people, find the person with the highest number of awards and the lowest number of awards.
+219. How do you find the sum of the lengths of all strings in a list that contain a specific substring exactly once?
+220. Find all strings in a list that have an odd length and contain a specific character at least twice.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+221. How do you find the longest substring that appears in all strings of a list?
+222. Given a list of integers, find the total number of elements that are multiples of 7 but not multiples of 5.
+223. How do you count the number of elements in a list that are greater than the median and less than a given maximum?
+224. Find the sum of all even numbers in a list where each number is a perfect square.
+225. How do you find the total number of distinct substrings of a given length in a string?
+226. Given a list of dates, find the number of dates that fall within the current year.
+227. How do you find all integers in a list that are less than the median and greater than a specific value?
+228. Find the longest word in a list that contains a specific number of vowels.
+229. How do you get the top N elements from a list of integers based on their frequency of occurrence?
+230. Given a list of strings, find all strings that contain a specific sequence of characters exactly twice.
+231. How do you find the smallest number in a list that is divisible by both 4 and 6?
+232. Find all strings in a list that are not palindromes and have an even length.
+233. How do you find the frequency of each digit in a list of integers?
+234. Given a list of objects with a numeric field, find the object with the second highest attribute value.
+235. How do you find the number of distinct elements in a list of integers that are prime?
+236. Find the sum of all elements in a list of integers that are greater than the average and less than a given threshold.
+237. How do you get all strings in a list that have a specific prefix and are longer than a specific length but shorter than another length?
+238. Given a list of dates, find the date with the most recent month and day.
+239. How do you find the total number of unique elements in a list of objects based on a specific field?
+240. Find all integers in a list that are divisible by a given number but not by another number and greater than a specific value.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+241. How do you find the longest common substring among a list of strings?
+242. Given a list of integers, find the total number of elements that are multiples of both 2 and 5 but not multiples of 10.
+243. How do you find the average length of strings in a list that contain at least one vowel?
+244. Find the sum of all prime numbers in a list of integers that are less than a specific threshold.
+245. How do you find the number of strings in a list that start with a specific letter and have an odd length?
+246. Given a list of dates, find the date that occurs exactly N days from today.
+247. How do you find all elements in a list that are greater than the median value and are also multiples of a given number?
+248. Find the longest string in a list that contains no repeating characters.
+249. How do you count the number of strings in a list that contain a specific word exactly twice?
+250. Given a list of strings, find all strings that contain all vowels at least once.
+251. How do you find the total number of characters in a list of strings that are digits?
+252. Find the largest number in a list that is a perfect square and a multiple of a given number.
+253. How do you get all integers from a list that are prime and greater than the average of the list?
+254. Given a list of strings, find all strings that have a specific suffix and contain at least one digit.
+255. How do you find the average of the lengths of all strings in a list that start with a specific letter?
+256. Find the smallest number in a list that is divisible by a specific number but not by another number.
+257. How do you find the total number of distinct integers in a list that are greater than a specific value?
+258. Given a list of dates, find all dates that fall within a specific quarter of the year.
+259. How do you find the number of strings in a list that are palindromes and have a length greater than a given value?
+260. Find all numbers in a list that are not divisible by 2, 3, or 5 and are greater than the median.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+261. How do you find the longest string in a list that contains a specific set of characters?
+262. Given a list of integers, find the sum of all elements that are divisible by both 3 and 7 but not multiples of 21.
+263. How do you calculate the average length of strings in a list that do not contain any vowels?
+264. Find all elements in a list of integers that are both prime and less than a specific threshold.
+265. How do you find the number of strings in a list that have a length divisible by a given number?
+266. Given a list of dates, find the number of dates that are within the last 30 days.
+267. How do you find the total number of distinct substrings of a given length that are palindromes?
+268. Find all numbers in a list that are perfect cubes and divisible by a given number.
+269. How do you find the sum of all odd numbers in a list that are greater than the average?
+270. Given a list of strings, find all strings that contain a specific substring at least once and end with a specific character.
+271. How do you find the number of distinct characters in each string of a list?
+272. Find the total number of elements in a list that are divisible by 2 or 3 but not both.
+273. How do you get the first N elements in a list that are greater than a specific value?
+274. Given a list of integers, find the largest number that is a perfect square and less than a specific threshold.
+275. How do you find all strings in a list that have an even length and contain exactly two different characters?
+276. Find all integers in a list that are divisible by a specific number and also greater than a given threshold.
+277. How do you find the total number of distinct elements in a list of strings that contain exactly one vowel?
+278. Given a list of dates, find the date that is exactly N weeks from today.
+279. How do you find all strings in a list that are palindromes and do not contain a specific character?
+280. Find the sum of all numbers in a list that are greater than the median and are prime.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+281. How do you find the longest string in a list that does not contain a specific character?
+282. Given a list of integers, find the total number of elements that are divisible by 3 but not by 6.
+283. How do you find the average length of strings in a list that do not contain any consonants?
+284. Find all elements in a list of integers that are prime and less than the median.
+285. How do you count the number of strings in a list that contain a specific prefix and have an even length?
+286. Given a list of dates, find the number of dates that fall within the next N days.
+287. How do you find the total number of unique substrings of a given length that are not palindromes?
+288. Find all numbers in a list that are both perfect squares and perfect cubes.
+289. How do you find the sum of all even numbers in a list that are less than a specific value?
+290. Given a list of strings, find all strings that contain a specific sequence of characters at least once and start with a specific letter.
+291. How do you find the number of distinct characters in a list of strings that are not vowels?
+292. Find the total number of elements in a list that are divisible by 2 and 5 but not by 10.
+293. How do you get the first N elements in a list that are less than the median value?
+294. Given a list of integers, find the largest number that is both a multiple of a given number and a perfect square.
+295. How do you find all strings in a list that are palindromes and have a length divisible by a specific number?
+296. Find all integers in a list that are divisible by a specific number and are less than the average value.
+297. How do you find the total number of distinct elements in a list of strings that contain exactly two different vowels?
+298. Given a list of dates, find the date that is exactly N months from today.
+299. How do you find all strings in a list that are not palindromes and do not contain a specific character?
+300. Find the sum of all numbers in a list that are less than the median and are not prime.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+301. How do you find the longest string in a list that contains all the letters of the alphabet?
+302. Given a list of integers, find the total number of elements that are multiples of both 4 and 5 but not multiples of 20.
+303. How do you calculate the average length of strings in a list that contain at least one digit?
+304. Find all elements in a list of integers that are both perfect squares and less than a specific threshold.
+305. How do you find the number of strings in a list that have a length divisible by both 2 and 4?
+306. Given a list of dates, find the number of dates that fall within the current month.
+307. How do you find the total number of distinct substrings of a given length that contain at least one vowel?
+308. Find all numbers in a list that are perfect cubes and divisible by a specific number.
+309. How do you find the sum of all odd numbers in a list that are less than the average?
+310. Given a list of strings, find all strings that contain a specific character exactly N times.
+311. How do you find the number of distinct characters in each string of a list that are digits?
+312. Find the total number of elements in a list that are divisible by 2 or 5 but not both.
+313. How do you get the first N elements in a list that are greater than a specific value and less than another value?
+314. Given a list of integers, find the largest number that is a multiple of a given number and less than a specific threshold.
+315. How do you find all strings in a list that have an odd length and contain a specific substring?
+316. Find all integers in a list that are divisible by a specific number and are less than the median value.
+317. How do you find the total number of distinct elements in a list of strings that contain exactly one consonant?
+318. Given a list of dates, find the date that is exactly N days from a specific date.
+319. How do you find all strings in a list that are palindromes and have a length greater than a specific value?
+320. Find the sum of all numbers in a list that are greater than the median and are divisible by a given number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+321. How do you find the longest string in a list that does not contain any digits?
+322. Given a list of integers, find the total number of elements that are multiples of both 3 and 7 but not multiples of 21.
+323. How do you calculate the average length of strings in a list that contain no consonants?
+324. Find all elements in a list of integers that are both prime and less than a specific value.
+325. How do you find the number of strings in a list that contain a specific letter and have a length that is a prime number?
+326. Given a list of dates, find the number of dates that are within the past N months.
+327. How do you find the total number of distinct substrings of a given length that are palindromes?
+328. Find all numbers in a list that are perfect squares and multiples of a specific number.
+329. How do you find the sum of all even numbers in a list that are less than a given threshold and greater than the median?
+330. Given a list of strings, find all strings that start with a specific letter and contain a specific substring exactly once.
+331. How do you find the number of distinct characters in a list of strings that are uppercase letters?
+332. Find the total number of elements in a list that are divisible by both 2 and 5 but not by 10.
+333. How do you get the first N elements in a list that are both greater than a specific value and are prime?
+334. Given a list of integers, find the largest number that is both a multiple of a specific number and a perfect square.
+335. How do you find all strings in a list that have an even length and do not contain a specific substring?
+336. Find all integers in a list that are divisible by a specific number and are greater than the median value.
+337. How do you find the total number of distinct elements in a list of strings that contain exactly two different consonants?
+338. Given a list of dates, find the date that is exactly N months and days from today.
+339. How do you find all strings in a list that are not palindromes and do not contain a specific letter?
+340. Find the sum of all numbers in a list that are less than the median and are divisible by a specific number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+341. How do you find the longest string in a list that contains only vowels?
+342. Given a list of integers, find the total number of elements that are multiples of both 2 and 7 but not multiples of 14.
+343. How do you calculate the average length of strings in a list that contain at least two different vowels?
+344. Find all elements in a list of integers that are perfect cubes and less than a specific threshold.
+345. How do you find the number of strings in a list that have a length divisible by a specific number and contain a specific substring?
+346. Given a list of dates, find the number of dates that fall within the last N weeks.
+347. How do you find the total number of distinct substrings of a given length that contain no repeating characters?
+348. Find all numbers in a list that are both perfect squares and not divisible by a given number.
+349. How do you find the sum of all odd numbers in a list that are greater than a specific value and less than the median?
+350. Given a list of strings, find all strings that contain a specific sequence of characters exactly twice and end with a specific punctuation.
+351. How do you find the number of distinct characters in each string of a list that are not vowels?
+352. Find the total number of elements in a list that are divisible by either 3 or 5 but not both.
+353. How do you get the first N elements in a list that are less than the median value and are prime?
+354. Given a list of integers, find the largest number that is both a multiple of a specific number and a perfect cube.
+355. How do you find all strings in a list that have an odd length and contain a specific character?
+356. Find all integers in a list that are divisible by a specific number and are less than a given threshold but greater than the median.
+357. How do you find the total number of distinct elements in a list of strings that contain exactly one digit?
+358. Given a list of dates, find the date that is exactly N weeks from a specific date.
+359. How do you find all strings in a list that are palindromes and have a length that is a power of two?
+360. Find the sum of all numbers in a list that are greater than the median and are multiples of a given number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+361. How do you find the longest string in a list that contains a specific digit?
+362. Given a list of integers, find the total number of elements that are multiples of both 3 and 8 but not multiples of 24.
+363. How do you calculate the average length of strings in a list that contain exactly three different vowels?
+364. Find all elements in a list of integers that are prime and greater than a specific value but less than the median.
+365. How do you find the number of strings in a list that contain a specific character and have a length divisible by a prime number?
+366. Given a list of dates, find the number of dates that fall within the next N months.
+367. How do you find the total number of distinct substrings of a given length that start with a specific character?
+368. Find all numbers in a list that are perfect squares and also multiples of a given number.
+369. How do you find the sum of all even numbers in a list that are less than a given threshold and greater than a specific value?
+370. Given a list of strings, find all strings that start with a specific letter and end with a specific punctuation mark.
+371. How do you find the number of distinct characters in each string of a list that are uppercase letters?
+372. Find the total number of elements in a list that are divisible by both 5 and 7 but not by 35.
+373. How do you get the first N elements in a list that are greater than a specific value and are divisible by a given number?
+374. Given a list of integers, find the largest number that is a multiple of a specific number and less than the median.
+375. How do you find all strings in a list that have an even length and do not contain a specific substring?
+376. Find all integers in a list that are divisible by a specific number and are greater than the average value but less than a given threshold.
+377. How do you find the total number of distinct elements in a list of strings that contain exactly two vowels?
+378. Given a list of dates, find the date that is exactly N days before a specific date.
+379. How do you find all strings in a list that are not palindromes and contain a specific sequence of characters?
+380. Find the sum of all numbers in a list that are less than the median and are not divisible by a specific number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+381. How do you find the longest string in a list that contains a specific set of characters?
+382. Given a list of integers, find the total number of elements that are multiples of both 6 and 9 but not multiples of 18.
+383. How do you calculate the average length of strings in a list that contain at least one uppercase letter?
+384. Find all elements in a list of integers that are perfect cubes and less than the median value.
+385. How do you find the number of strings in a list that have a length divisible by 3 and contain at least one vowel?
+386. Given a list of dates, find the number of dates that fall within the last N years.
+387. How do you find the total number of distinct substrings of a given length that contain no digits?
+388. Find all numbers in a list that are both perfect squares and less than a specific threshold.
+389. How do you find the sum of all odd numbers in a list that are greater than a specific value and less than a given threshold?
+390. Given a list of strings, find all strings that contain a specific character and end with a specific substring.
+391. How do you find the number of distinct characters in each string of a list that are digits?
+392. Find the total number of elements in a list that are divisible by 4 and not by 8.
+393. How do you get the first N elements in a list that are less than a specific value and are also prime numbers?
+394. Given a list of integers, find the largest number that is both a multiple of a specific number and a perfect cube.
+395. How do you find all strings in a list that have an odd length and do not contain a specific character?
+396. Find all integers in a list that are divisible by a specific number and are less than the average value but greater than the median.
+397. How do you find the total number of distinct elements in a list of strings that contain exactly one uppercase letter?
+398. Given a list of dates, find the date that is exactly N months from a specific date.
+399. How do you find all strings in a list that are palindromes and have a length divisible by a specific number?
+400. Find the sum of all numbers in a list that are greater than the median and are divisible by a specific number.
+Let me know if you need further assistance!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+401. How do you find the longest string in a list that contains no vowels?
+402. Given a list of integers, find the total number of elements that are multiples of both 5 and 12 but not multiples of 60.
+403. How do you calculate the average length of strings in a list that contain at least two digits?
+404. Find all elements in a list of integers that are perfect squares and greater than a specific value.
+405. How do you find the number of strings in a list that contain a specific letter and have a length that is a multiple of a given number?
+406. Given a list of dates, find the number of dates that fall within the past N days.
+407. How do you find the total number of distinct substrings of a given length that are all uppercase letters?
+408. Find all numbers in a list that are perfect cubes and multiples of a specific number.
+409. How do you find the sum of all even numbers in a list that are greater than the average and less than a specific threshold?
+410. Given a list of strings, find all strings that start with a specific letter and contain a specific digit.
+411. How do you find the number of distinct characters in each string of a list that are lowercase letters?
+412. Find the total number of elements in a list that are divisible by both 3 and 7 but not by 21.
+413. How do you get the first N elements in a list that are greater than a specific value and are divisible by a given number?
+414. Given a list of integers, find the largest number that is both a multiple of a specific number and less than the median value.
+415. How do you find all strings in a list that have an even length and contain a specific substring?
+416. Find all integers in a list that are divisible by a specific number and are greater than a specific threshold but less than the median value.
+417. How do you find the total number of distinct elements in a list of strings that contain exactly two digits?
+418. Given a list of dates, find the date that is exactly N days after a specific date.
+419. How do you find all strings in a list that are not palindromes and have a length greater than a specific value?
+420. Find the sum of all numbers in a list that are less than the median and are divisible by a specific number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+421. How do you find the longest string in a list that contains only digits?
+422. Given a list of integers, find the total number of elements that are multiples of both 4 and 9 but not multiples of 36.
+423. How do you calculate the average length of strings in a list that contain no digits?
+424. Find all elements in a list of integers that are perfect cubes and greater than a specific value but less than the median.
+425. How do you find the number of strings in a list that have a length divisible by a specific number and do not contain a specific character?
+426. Given a list of dates, find the number of dates that fall within the next N days.
+427. How do you find the total number of distinct substrings of a given length that start with a specific vowel?
+428. Find all numbers in a list that are both perfect squares and not divisible by a given number.
+429. How do you find the sum of all odd numbers in a list that are less than a given threshold and greater than a specific value?
+430. Given a list of strings, find all strings that contain a specific sequence of characters and do not end with a specific punctuation mark.
+431. How do you find the number of distinct characters in each string of a list that are punctuation marks?
+432. Find the total number of elements in a list that are divisible by both 2 and 6 but not by 12.
+433. How do you get the first N elements in a list that are less than a specific value and are both multiples of a given number?
+434. Given a list of integers, find the largest number that is a multiple of a specific number and less than the median.
+435. How do you find all strings in a list that have an odd length and do not contain a specific sequence of characters?
+436. Find all integers in a list that are divisible by a specific number and are less than a specific threshold but greater than the median.
+437. How do you find the total number of distinct elements in a list of strings that contain exactly three uppercase letters?
+438. Given a list of dates, find the date that is exactly N months before a specific date.
+439. How do you find all strings in a list that are palindromes and do not contain a specific substring?
+440. Find the sum of all numbers in a list that are greater than the median and are not divisible by a specific number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+441. How do you find the longest string in a list that contains only uppercase letters?
+442. Given a list of integers, find the total number of elements that are multiples of both 7 and 8 but not multiples of 56.
+443. How do you calculate the average length of strings in a list that contain only consonants?
+444. Find all elements in a list of integers that are perfect squares and multiples of a specific number.
+445. How do you find the number of strings in a list that have a length that is a power of two and contain a specific character?
+446. Given a list of dates, find the number of dates that fall within the next N weeks.
+447. How do you find the total number of distinct substrings of a given length that are all lowercase letters?
+448. Find all numbers in a list that are perfect cubes and not divisible by a specific number but less than a given threshold.
+449. How do you find the sum of all even numbers in a list that are less than a specific threshold and less than the median?
+450. Given a list of strings, find all strings that start with a specific letter and do not contain a specific sequence of characters.
+451. How do you find the number of distinct characters in each string of a list that are special characters (non-alphanumeric)?
+452. Find the total number of elements in a list that are divisible by 5 and not by 10.
+453. How do you get the first N elements in a list that are less than the median value and are divisible by a given number?
+454. Given a list of integers, find the largest number that is both a multiple of a specific number and greater than the median.
+455. How do you find all strings in a list that have an even length and contain a specific character but do not start with a specific letter?
+456. Find all integers in a list that are divisible by a specific number and are less than the median but greater than the average value.
+457. How do you find the total number of distinct elements in a list of strings that contain exactly one digit and one vowel?
+458. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+459. How do you find all strings in a list that are not palindromes and have an even length?
+460. Find the sum of all numbers in a list that are greater than the median and are divisible by both a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 20 questions:
+
+461. How do you find the longest string in a list that contains only lowercase letters?
+462. Given a list of integers, find the total number of elements that are multiples of both 6 and 10 but not multiples of 30.
+463. How do you calculate the average length of strings in a list that contain exactly two consonants?
+464. Find all elements in a list of integers that are perfect cubes and less than a specific value but greater than the median.
+465. How do you find the number of strings in a list that have a length divisible by a specific prime number and contain no digits?
+466. Given a list of dates, find the number of dates that fall within the past N weeks.
+467. How do you find the total number of distinct substrings of a given length that start with a specific consonant?
+468. Find all numbers in a list that are perfect squares and greater than a specific threshold but less than the median value.
+469. How do you find the sum of all odd numbers in a list that are less than the median and greater than a specific value?
+470. Given a list of strings, find all strings that end with a specific punctuation mark and contain a specific sequence of characters.
+471. How do you find the number of distinct characters in each string of a list that are digits and not letters?
+472. Find the total number of elements in a list that are divisible by both 2 and 7 but not by 14.
+473. How do you get the first N elements in a list that are greater than a specific threshold and are divisible by a given number?
+474. Given a list of integers, find the largest number that is a multiple of a specific number and less than the median value.
+475. How do you find all strings in a list that have an odd length and do not contain a specific vowel?
+476. Find all integers in a list that are divisible by a specific number and are greater than the average value but less than the median.
+477. How do you find the total number of distinct elements in a list of strings that contain exactly two uppercase letters and one digit?
+478. Given a list of dates, find the date that is exactly N weeks before a specific date.
+479. How do you find all strings in a list that are palindromes and contain a specific character?
+480. Find the sum of all numbers in a list that are less than the median and are divisible by a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+give me every time 50 that better start from 481
+ChatGPT
+Sure! Here’s the next set of 50 questions starting from 481:
+
+481. How do you find the longest string in a list that contains only digits?
+482. Given a list of integers, find the total number of elements that are multiples of both 8 and 12 but not multiples of 24.
+483. How do you calculate the average length of strings in a list that contain only uppercase letters?
+484. Find all elements in a list of integers that are perfect squares and less than a specific threshold but greater than the median.
+485. How do you find the number of strings in a list that have a length divisible by 5 and contain at least one vowel?
+486. Given a list of dates, find the number of dates that fall within the next N years.
+487. How do you find the total number of distinct substrings of a given length that are all lowercase letters?
+488. Find all numbers in a list that are perfect cubes and less than a specific value but greater than the median.
+489. How do you find the sum of all even numbers in a list that are less than the median and greater than a specific threshold?
+490. Given a list of strings, find all strings that start with a specific letter and contain a specific sequence of characters.
+491. How do you find the number of distinct characters in each string of a list that are uppercase letters?
+492. Find the total number of elements in a list that are divisible by both 2 and 8 but not by 16.
+493. How do you get the first N elements in a list that are less than the median and are divisible by a given number?
+494. Given a list of integers, find the largest number that is both a multiple of a specific number and less than the median value.
+495. How do you find all strings in a list that have an odd length and do not contain a specific digit?
+496. Find all integers in a list that are divisible by a specific number and are less than the median but greater than a specific threshold.
+497. How do you find the total number of distinct elements in a list of strings that contain exactly one digit?
+498. Given a list of dates, find the date that is exactly N days after a specific date, considering only weekends.
+499. How do you find all strings in a list that are not palindromes and have a length greater than a specific value?
+500. Find the sum of all numbers in a list that are greater than the median and are not divisible by a specific number.
+501. How do you find the longest string in a list that contains no digits?
+502. Given a list of integers, find the total number of elements that are multiples of both 9 and 15 but not multiples of 45.
+503. How do you calculate the average length of strings in a list that contain exactly three consonants?
+504. Find all elements in a list of integers that are perfect squares and greater than a specific threshold.
+505. How do you find the number of strings in a list that have a length divisible by a prime number and contain no digits?
+506. Given a list of dates, find the number of dates that fall within the past N years.
+507. How do you find the total number of distinct substrings of a given length that contain no digits?
+508. Find all numbers in a list that are both perfect squares and multiples of a specific number.
+509. How do you find the sum of all odd numbers in a list that are less than a specific threshold and greater than the median?
+510. Given a list of strings, find all strings that end with a specific character and contain a specific sequence of characters.
+511. How do you find the number of distinct characters in each string of a list that are punctuation marks?
+512. Find the total number of elements in a list that are divisible by both 3 and 5 but not by 15.
+513. How do you get the first N elements in a list that are greater than a specific threshold and are also multiples of a given number?
+514. Given a list of integers, find the largest number that is a multiple of a specific number and less than the median.
+515. How do you find all strings in a list that have an even length and contain a specific substring?
+516. Find all integers in a list that are divisible by a specific number and are less than a specific threshold but greater than the median.
+517. How do you find the total number of distinct elements in a list of strings that contain exactly two digits?
+518. Given a list of dates, find the date that is exactly N months before a specific date.
+519. How do you find all strings in a list that are palindromes and do not contain a specific substring?
+520. Find the sum of all numbers in a list that are less than the median and are divisible by a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+521. How do you find the longest string in a list that contains only special characters?
+522. Given a list of integers, find the total number of elements that are multiples of both 11 and 13 but not multiples of 143.
+523. How do you calculate the average length of strings in a list that contain exactly three vowels?
+524. Find all elements in a list of integers that are perfect squares and not divisible by a specific number but greater than the median.
+525. How do you find the number of strings in a list that have a length divisible by 7 and contain no special characters?
+526. Given a list of dates, find the number of dates that fall within the next N months.
+527. How do you find the total number of distinct substrings of a given length that contain only uppercase letters?
+528. Find all numbers in a list that are perfect cubes and greater than a specific threshold but not divisible by a specific number.
+529. How do you find the sum of all even numbers in a list that are greater than the median and less than a specific threshold?
+530. Given a list of strings, find all strings that contain a specific character and do not start or end with that character.
+531. How do you find the number of distinct characters in each string of a list that are lowercase letters and not digits?
+532. Find the total number of elements in a list that are divisible by both 4 and 5 but not by 20.
+533. How do you get the first N elements in a list that are less than the median value and are divisible by a specific number?
+534. Given a list of integers, find the largest number that is a multiple of a specific number and greater than the median.
+535. How do you find all strings in a list that have an odd length and do not contain a specific sequence of characters?
+536. Find all integers in a list that are divisible by a specific number and are less than a specific threshold but greater than the median value.
+537. How do you find the total number of distinct elements in a list of strings that contain exactly one special character?
+538. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays and weekends.
+539. How do you find all strings in a list that are not palindromes and do not contain a specific letter?
+540. Find the sum of all numbers in a list that are greater than the median and are divisible by both a specific number and a prime number.
+541. How do you find the longest string in a list that contains exactly two digits?
+542. Given a list of integers, find the total number of elements that are multiples of both 10 and 14 but not multiples of 70.
+543. How do you calculate the average length of strings in a list that contain only digits?
+544. Find all elements in a list of integers that are perfect squares and multiples of a specific number but not greater than a specific threshold.
+545. How do you find the number of strings in a list that have a length divisible by a specific even number and contain at least one vowel?
+546. Given a list of dates, find the number of dates that fall within the past N months.
+547. How do you find the total number of distinct substrings of a given length that are all digits?
+548. Find all numbers in a list that are perfect cubes and divisible by a specific number but not less than the median.
+549. How do you find the sum of all odd numbers in a list that are greater than a specific threshold and less than the median?
+550. Given a list of strings, find all strings that end with a specific vowel and do not contain a specific character.
+551. How do you find the number of distinct characters in each string of a list that are digits and uppercase letters?
+552. Find the total number of elements in a list that are divisible by both 3 and 9 but not by 27.
+553. How do you get the first N elements in a list that are greater than a specific threshold and are multiples of a given number?
+554. Given a list of integers, find the largest number that is a multiple of a specific number and less than the median value.
+555. How do you find all strings in a list that have an even length and do not contain a specific digit?
+556. Find all integers in a list that are divisible by a specific number and are less than the median but greater than a specific threshold.
+557. How do you find the total number of distinct elements in a list of strings that contain exactly two uppercase letters?
+558. Given a list of dates, find the date that is exactly N months after a specific date.
+559. How do you find all strings in a list that are palindromes and do not contain a specific sequence of characters?
+560. Find the sum of all numbers in a list that are less than the median and are divisible by both a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+561. How do you find the longest string in a list that contains only uppercase letters and numbers?
+562. Given a list of integers, find the total number of elements that are multiples of both 14 and 15 but not multiples of 210.
+563. How do you calculate the average length of strings in a list that contain exactly four vowels?
+564. Find all elements in a list of integers that are perfect squares and less than a specific threshold but not multiples of a given number.
+565. How do you find the number of strings in a list that have a length divisible by 6 and contain at least one digit?
+566. Given a list of dates, find the number of dates that fall within the next N days.
+567. How do you find the total number of distinct substrings of a given length that contain exactly two uppercase letters?
+568. Find all numbers in a list that are perfect cubes and not divisible by a specific number but less than a specific threshold.
+569. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+570. Given a list of strings, find all strings that start with a specific letter and contain exactly two special characters.
+571. How do you find the number of distinct characters in each string of a list that are punctuation marks and not digits?
+572. Find the total number of elements in a list that are divisible by both 5 and 7 but not by 35.
+573. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a specific number?
+574. Given a list of integers, find the largest number that is a multiple of a specific number and greater than a specific threshold.
+575. How do you find all strings in a list that have an odd length and contain exactly three vowels?
+576. Find all integers in a list that are divisible by a specific number and are greater than a specific threshold but less than the median.
+577. How do you find the total number of distinct elements in a list of strings that contain exactly three special characters?
+578. Given a list of dates, find the date that is exactly N days from a specific date, considering only weekdays.
+579. How do you find all strings in a list that are not palindromes and contain exactly one uppercase letter?
+580. Find the sum of all numbers in a list that are greater than a specific threshold and are divisible by both a specific number and a composite number.
+581. How do you find the longest string in a list that contains exactly three digits?
+582. Given a list of integers, find the total number of elements that are multiples of both 16 and 18 but not multiples of 288.
+583. How do you calculate the average length of strings in a list that contain exactly five consonants?
+584. Find all elements in a list of integers that are perfect squares and greater than the median but less than a specific threshold.
+585. How do you find the number of strings in a list that have a length divisible by 8 and contain no special characters?
+586. Given a list of dates, find the number of dates that fall within the past N days.
+587. How do you find the total number of distinct substrings of a given length that start with a specific vowel?
+588. Find all numbers in a list that are perfect cubes and less than a specific threshold but not divisible by a specific number.
+589. How do you find the sum of all odd numbers in a list that are less than the median and greater than a specific threshold?
+590. Given a list of strings, find all strings that end with a specific consonant and contain a specific sequence of characters.
+591. How do you find the number of distinct characters in each string of a list that are lowercase letters and special characters?
+592. Find the total number of elements in a list that are divisible by both 6 and 11 but not by 66.
+593. How do you get the first N elements in a list that are greater than the median and are multiples of a given number?
+594. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+595. How do you find all strings in a list that have an even length and contain exactly two special characters?
+596. Find all integers in a list that are divisible by a specific number and less than the median but greater than a specific threshold.
+597. How do you find the total number of distinct elements in a list of strings that contain exactly two digits and one special character?
+598. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekdays.
+599. How do you find all strings in a list that are palindromes and do not contain a specific character?
+600. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+601. How do you find the longest string in a list that contains exactly four uppercase letters?
+602. Given a list of integers, find the total number of elements that are multiples of both 17 and 19 but not multiples of 323.
+603. How do you calculate the average length of strings in a list that contain exactly two vowels and one digit?
+604. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+605. How do you find the number of strings in a list that have a length divisible by 9 and contain at least one uppercase letter?
+606. Given a list of dates, find the number of dates that fall within the next N weeks.
+607. How do you find the total number of distinct substrings of a given length that contain only digits and special characters?
+608. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+609. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than a specific value?
+610. Given a list of strings, find all strings that start with a specific digit and contain a specific sequence of characters.
+611. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+612. Find the total number of elements in a list that are divisible by both 8 and 9 but not by 72.
+613. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a specific number?
+614. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+615. How do you find all strings in a list that have an odd length and contain exactly four vowels?
+616. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+617. How do you find the total number of distinct elements in a list of strings that contain exactly three uppercase letters?
+618. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+619. How do you find all strings in a list that are not palindromes and contain exactly two digits?
+620. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a composite number.
+621. How do you find the longest string in a list that contains exactly five digits?
+622. Given a list of integers, find the total number of elements that are multiples of both 20 and 21 but not multiples of 420.
+623. How do you calculate the average length of strings in a list that contain exactly two consonants and two special characters?
+624. Find all elements in a list of integers that are perfect squares and less than a specific threshold but not multiples of a given number.
+625. How do you find the number of strings in a list that have a length divisible by 10 and contain at least one special character?
+626. Given a list of dates, find the number of dates that fall within the past N weeks.
+627. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and numbers?
+628. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+629. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+630. Given a list of strings, find all strings that end with a specific digit and contain exactly three special characters.
+631. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+632. Find the total number of elements in a list that are divisible by both 7 and 10 but not by 70.
+633. How do you get the first N elements in a list that are greater than a specific threshold and are multiples of a specific number?
+634. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+635. How do you find all strings in a list that have an even length and contain exactly three vowels?
+636. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+637. How do you find the total number of distinct elements in a list of strings that contain exactly two special characters and one digit?
+638. Given a list of dates, find the date that is exactly N months from a specific date, counting only weekends.
+639. How do you find all strings in a list that are palindromes and do not contain a specific digit?
+640. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+641. How do you find the longest string in a list that contains exactly six uppercase letters?
+642. Given a list of integers, find the total number of elements that are multiples of both 22 and 23 but not multiples of 506.
+643. How do you calculate the average length of strings in a list that contain exactly three vowels and two digits?
+644. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+645. How do you find the number of strings in a list that have a length divisible by 11 and contain at least one digit?
+646. Given a list of dates, find the number of dates that fall within the next N months and are weekdays.
+647. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and special characters?
+648. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+649. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+650. Given a list of strings, find all strings that start with a specific vowel and contain exactly two digits.
+651. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+652. Find the total number of elements in a list that are divisible by both 9 and 11 but not by 99.
+653. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a specific number?
+654. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+655. How do you find all strings in a list that have an odd length and contain exactly five vowels?
+656. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+657. How do you find the total number of distinct elements in a list of strings that contain exactly four uppercase letters?
+658. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekends.
+659. How do you find all strings in a list that are not palindromes and contain exactly three special characters?
+660. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a composite number.
+661. How do you find the longest string in a list that contains exactly seven digits?
+662. Given a list of integers, find the total number of elements that are multiples of both 24 and 25 but not multiples of 600.
+663. How do you calculate the average length of strings in a list that contain exactly one vowel and three consonants?
+664. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not divisible by a specific number.
+665. How do you find the number of strings in a list that have a length divisible by 12 and contain at least one special character?
+666. Given a list of dates, find the number of dates that fall within the past N months and are weekdays.
+667. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and numbers?
+668. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+669. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+670. Given a list of strings, find all strings that end with a specific letter and contain exactly four special characters.
+671. How do you find the number of distinct characters in each string of a list that are lowercase letters and punctuation marks?
+672. Find the total number of elements in a list that are divisible by both 5 and 12 but not by 60.
+673. How do you get the first N elements in a list that are greater than the median and are multiples of a given number?
+674. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+675. How do you find all strings in a list that have an even length and contain exactly four vowels?
+676. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+677. How do you find the total number of distinct elements in a list of strings that contain exactly three digits and two special characters?
+678. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekdays.
+679. How do you find all strings in a list that are palindromes and do not contain a specific special character?
+680. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+681. How do you find the longest string in a list that contains exactly eight uppercase letters?
+682. Given a list of integers, find the total number of elements that are multiples of both 25 and 26 but not multiples of 650.
+683. How do you calculate the average length of strings in a list that contain exactly four vowels and two special characters?
+684. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+685. How do you find the number of strings in a list that have a length divisible by 13 and contain at least one digit?
+686. Given a list of dates, find the number of dates that fall within the next N years and are weekdays.
+687. How do you find the total number of distinct substrings of a given length that contain only digits and uppercase letters?
+688. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+689. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+690. Given a list of strings, find all strings that start with a specific consonant and contain exactly two digits.
+691. How do you find the number of distinct characters in each string of a list that are uppercase letters and digits?
+692. Find the total number of elements in a list that are divisible by both 10 and 14 but not by 70.
+693. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+694. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+695. How do you find all strings in a list that have an odd length and contain exactly six vowels?
+696. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+697. How do you find the total number of distinct elements in a list of strings that contain exactly five uppercase letters?
+698. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekends.
+699. How do you find all strings in a list that are not palindromes and contain exactly four special characters?
+700. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+701. How do you find the longest string in a list that contains exactly nine digits?
+702. Given a list of integers, find the total number of elements that are multiples of both 30 and 31 but not multiples of 930.
+703. How do you calculate the average length of strings in a list that contain exactly two consonants and three special characters?
+704. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+705. How do you find the number of strings in a list that have a length divisible by 14 and contain at least one special character?
+706. Given a list of dates, find the number of dates that fall within the past N years and are weekdays.
+707. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+708. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+709. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+710. Given a list of strings, find all strings that end with a specific consonant and contain exactly five special characters.
+711. How do you find the number of distinct characters in each string of a list that are lowercase letters and punctuation marks?
+712. Find the total number of elements in a list that are divisible by both 6 and 15 but not by 30.
+713. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+714. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+715. How do you find all strings in a list that have an even length and contain exactly five vowels?
+716. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+717. How do you find the total number of distinct elements in a list of strings that contain exactly four digits and three special characters?
+718. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekdays.
+719. How do you find all strings in a list that are palindromes and do not contain a specific vowel?
+720. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+721. How do you find the longest string in a list that contains exactly ten uppercase letters?
+722. Given a list of integers, find the total number of elements that are multiples of both 35 and 36 but not multiples of 1260.
+723. How do you calculate the average length of strings in a list that contain exactly five vowels and one special character?
+724. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+725. How do you find the number of strings in a list that have a length divisible by 15 and contain at least one digit?
+726. Given a list of dates, find the number of dates that fall within the next N years and are weekends.
+727. How do you find the total number of distinct substrings of a given length that contain only digits and lowercase letters?
+728. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+729. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+730. Given a list of strings, find all strings that start with a specific digit and contain exactly three digits.
+731. How do you find the number of distinct characters in each string of a list that are uppercase letters and punctuation marks?
+732. Find the total number of elements in a list that are divisible by both 11 and 13 but not by 143.
+733. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+734. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+735. How do you find all strings in a list that have an odd length and contain exactly seven vowels?
+736. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+737. How do you find the total number of distinct elements in a list of strings that contain exactly six uppercase letters?
+738. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+739. How do you find all strings in a list that are not palindromes and contain exactly five special characters?
+740. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+741. How do you find the longest string in a list that contains exactly eleven digits?
+742. Given a list of integers, find the total number of elements that are multiples of both 40 and 41 but not multiples of 1640.
+743. How do you calculate the average length of strings in a list that contain exactly three consonants and four special characters?
+744. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+745. How do you find the number of strings in a list that have a length divisible by 16 and contain at least one special character?
+746. Given a list of dates, find the number of dates that fall within the past N years and are weekends.
+747. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+748. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+749. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+750. Given a list of strings, find all strings that end with a specific vowel and contain exactly six special characters.
+751. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+752. Find the total number of elements in a list that are divisible by both 8 and 18 but not by 144.
+753. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+754. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+755. How do you find all strings in a list that have an even length and contain exactly six vowels?
+756. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+757. How do you find the total number of distinct elements in a list of strings that contain exactly seven digits and two special characters?
+758. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekends.
+759. How do you find all strings in a list that are palindromes and do not contain a specific consonant?
+760. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+761. How do you find the longest string in a list that contains exactly twelve uppercase letters?
+762. Given a list of integers, find the total number of elements that are multiples of both 45 and 46 but not multiples of 2070.
+763. How do you calculate the average length of strings in a list that contain exactly four consonants and three digits?
+764. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+765. How do you find the number of strings in a list that have a length divisible by 17 and contain at least one digit?
+766. Given a list of dates, find the number of dates that fall within the next N years and are weekdays.
+767. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and special characters?
+768. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+769. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+770. Given a list of strings, find all strings that start with a specific uppercase letter and contain exactly four digits.
+771. How do you find the number of distinct characters in each string of a list that are lowercase letters and special characters?
+772. Find the total number of elements in a list that are divisible by both 7 and 19 but not by 133.
+773. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+774. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+775. How do you find all strings in a list that have an odd length and contain exactly eight vowels?
+776. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+777. How do you find the total number of distinct elements in a list of strings that contain exactly five uppercase letters?
+778. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+779. How do you find all strings in a list that are not palindromes and contain exactly six special characters?
+780. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+781. How do you find the longest string in a list that contains exactly thirteen digits?
+782. Given a list of integers, find the total number of elements that are multiples of both 50 and 51 but not multiples of 2550.
+783. How do you calculate the average length of strings in a list that contain exactly five consonants and two special characters?
+784. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+785. How do you find the number of strings in a list that have a length divisible by 18 and contain at least one special character?
+786. Given a list of dates, find the number of dates that fall within the past N years and are weekends.
+787. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and special characters?
+788. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+789. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+790. Given a list of strings, find all strings that end with a specific consonant and contain exactly seven special characters.
+791. How do you find the number of distinct characters in each string of a list that are uppercase letters and digits?
+792. Find the total number of elements in a list that are divisible by both 9 and 21 but not by 189.
+793. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+794. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+795. How do you find all strings in a list that have an even length and contain exactly seven vowels?
+796. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+797. How do you find the total number of distinct elements in a list of strings that contain exactly six digits and three special characters?
+798. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekends.
+799. How do you find all strings in a list that are palindromes and do not contain a specific digit?
+800. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+801. How do you find the longest string in a list that contains exactly fourteen uppercase letters?
+802. Given a list of integers, find the total number of elements that are multiples of both 55 and 56 but not multiples of 3080.
+803. How do you calculate the average length of strings in a list that contain exactly six consonants and three digits?
+804. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+805. How do you find the number of strings in a list that have a length divisible by 19 and contain at least one digit?
+806. Given a list of dates, find the number of dates that fall within the next N years and are weekdays.
+807. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+808. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+809. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+810. Given a list of strings, find all strings that start with a specific lowercase letter and contain exactly five digits.
+811. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+812. Find the total number of elements in a list that are divisible by both 10 and 20 but not by 70.
+813. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+814. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+815. How do you find all strings in a list that have an odd length and contain exactly nine vowels?
+816. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+817. How do you find the total number of distinct elements in a list of strings that contain exactly seven uppercase letters?
+818. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+819. How do you find all strings in a list that are not palindromes and contain exactly seven special characters?
+820. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+821. How do you find the longest string in a list that contains exactly fifteen digits?
+822. Given a list of integers, find the total number of elements that are multiples of both 60 and 61 but not multiples of 3660.
+823. How do you calculate the average length of strings in a list that contain exactly seven consonants and four special characters?
+824. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+825. How do you find the number of strings in a list that have a length divisible by 20 and contain at least one special character?
+826. Given a list of dates, find the number of dates that fall within the past N years and are weekends.
+827. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+828. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+829. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+830. Given a list of strings, find all strings that end with a specific vowel and contain exactly eight special characters.
+831. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+832. Find the total number of elements in a list that are divisible by both 12 and 24 but not by 72.
+833. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+834. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+835. How do you find all strings in a list that have an even length and contain exactly eight vowels?
+836. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+837. How do you find the total number of distinct elements in a list of strings that contain exactly eight digits and four special characters?
+838. Given a list of dates, find the date that is exactly N months from a specific date, considering only weekends.
+839. How do you find all strings in a list that are palindromes and do not contain a specific special character?
+840. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+841. How do you find the longest string in a list that contains exactly sixteen uppercase letters?
+842. Given a list of integers, find the total number of elements that are multiples of both 65 and 66 but not multiples of 4290.
+843. How do you calculate the average length of strings in a list that contain exactly eight consonants and four digits?
+844. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+845. How do you find the number of strings in a list that have a length divisible by 21 and contain at least one digit?
+846. Given a list of dates, find the number of dates that fall within the next N years and are holidays.
+847. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+848. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+849. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+850. Given a list of strings, find all strings that start with a specific digit and contain exactly six digits.
+851. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+852. Find the total number of elements in a list that are divisible by both 13 and 25 but not by 325.
+853. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+854. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+855. How do you find all strings in a list that have an odd length and contain exactly ten vowels?
+856. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+857. How do you find the total number of distinct elements in a list of strings that contain exactly nine uppercase letters?
+858. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+859. How do you find all strings in a list that are not palindromes and contain exactly eight special characters?
+860. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+861. How do you find the longest string in a list that contains exactly seventeen digits?
+862. Given a list of integers, find the total number of elements that are multiples of both 70 and 71 but not multiples of 4970.
+863. How do you calculate the average length of strings in a list that contain exactly nine consonants and five special characters?
+864. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+865. How do you find the number of strings in a list that have a length divisible by 22 and contain at least one special character?
+866. Given a list of dates, find the number of dates that fall within the past N years and are holidays.
+867. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+868. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+869. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+870. Given a list of strings, find all strings that end with a specific consonant and contain exactly nine special characters.
+871. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+872. Find the total number of elements in a list that are divisible by both 14 and 28 but not by 196.
+873. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+874. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+875. How do you find all strings in a list that have an even length and contain exactly nine vowels?
+876. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+877. How do you find the total number of distinct elements in a list of strings that contain exactly ten digits and five special characters?
+878. Given a list of dates, find the date that is exactly N months from a specific date, considering only holidays.
+879. How do you find all strings in a list that are palindromes and do not contain a specific vowel?
+880. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+ChatGPT
+Here’s the next set of 50 questions:
+
+881. How do you find the longest string in a list that contains exactly eighteen uppercase letters?
+882. Given a list of integers, find the total number of elements that are multiples of both 75 and 76 but not multiples of 5700.
+883. How do you calculate the average length of strings in a list that contain exactly ten consonants and five digits?
+884. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+885. How do you find the number of strings in a list that have a length divisible by 23 and contain at least one digit?
+886. Given a list of dates, find the number of dates that fall within the next N years and are public holidays.
+887. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+888. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+889. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+890. Given a list of strings, find all strings that start with a specific letter and contain exactly seven digits.
+891. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+892. Find the total number of elements in a list that are divisible by both 15 and 30 but not by 105.
+893. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+894. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+895. How do you find all strings in a list that have an odd length and contain exactly eleven vowels?
+896. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+897. How do you find the total number of distinct elements in a list of strings that contain exactly eleven uppercase letters?
+898. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekends.
+899. How do you find all strings in a list that are not palindromes and contain exactly nine special characters?
+900. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+901. How do you find the longest string in a list that contains exactly nineteen digits?
+902. Given a list of integers, find the total number of elements that are multiples of both 80 and 81 but not multiples of 6480.
+903. How do you calculate the average length of strings in a list that contain exactly eleven consonants and six special characters?
+904. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+905. How do you find the number of strings in a list that have a length divisible by 24 and contain at least one special character?
+906. Given a list of dates, find the number of dates that fall within the past N years and are public holidays.
+907. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+908. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+909. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+910. Given a list of strings, find all strings that end with a specific vowel and contain exactly ten special characters.
+911. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+912. Find the total number of elements in a list that are divisible by both 16 and 32 but not by 128.
+913. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+914. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+915. How do you find all strings in a list that have an even length and contain exactly ten vowels?
+916. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+917. How do you find the total number of distinct elements in a list of strings that contain exactly twelve digits and six special characters?
+918. Given a list of dates, find the date that is exactly N months from a specific date, considering only public holidays.
+919. How do you find all strings in a list that are palindromes and do not contain a specific consonant?
+920. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Let me know when you're ready for the next set!
+
+continue
+
+ChatGPT
+Here’s the next set of 50 questions:
+
+921. How do you find the longest string in a list that contains exactly twenty uppercase letters?
+922. Given a list of integers, find the total number of elements that are multiples of both 85 and 86 but not multiples of 7310.
+923. How do you calculate the average length of strings in a list that contain exactly twelve consonants and seven digits?
+924. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+925. How do you find the number of strings in a list that have a length divisible by 25 and contain at least one digit?
+926. Given a list of dates, find the number of dates that fall within the next N years and are specific anniversaries.
+927. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+928. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+929. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+930. Given a list of strings, find all strings that start with a specific uppercase letter and contain exactly eight digits.
+931. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+932. Find the total number of elements in a list that are divisible by both 17 and 34 but not by 578.
+933. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+934. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+935. How do you find all strings in a list that have an odd length and contain exactly twelve vowels?
+936. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+937. How do you find the total number of distinct elements in a list of strings that contain exactly thirteen uppercase letters?
