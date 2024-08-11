@@ -1156,3 +1156,119 @@ Here’s the next set of 50 questions:
 935. How do you find all strings in a list that have an odd length and contain exactly twelve vowels?
 936. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
 937. How do you find the total number of distinct elements in a list of strings that contain exactly thirteen uppercase letters?
+938. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+939. How do you find all strings in a list that are not palindromes and contain exactly ten special characters?
+940. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+941. How do you find the longest string in a list that contains exactly twenty-one digits?
+942. Given a list of integers, find the total number of elements that are multiples of both 90 and 91 but not multiples of 8190.
+943. How do you calculate the average length of strings in a list that contain exactly thirteen consonants and eight special characters?
+944. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+945. How do you find the number of strings in a list that have a length divisible by 26 and contain at least one special character?
+946. Given a list of dates, find the number of dates that fall within the past N years and are specific anniversaries.
+947. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+948. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+949. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+950. Given a list of strings, find all strings that end with a specific vowel and contain exactly eleven special characters.
+951. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+952. Find the total number of elements in a list that are divisible by both 18 and 36 but not by 216.
+953. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+954. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+955. How do you find all strings in a list that have an even length and contain exactly twelve vowels?
+956. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+957. How do you find the total number of distinct elements in a list of strings that contain exactly fourteen digits and seven special characters?
+958. Given a list of dates, find the date that is exactly N months from a specific date, considering only specific anniversaries.
+959. How do you find all strings in a list that are palindromes and do not contain a specific consonant?
+960. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+961. How do you find the longest string in a list that contains exactly twenty-two uppercase letters?
+962. Given a list of integers, find the total number of elements that are multiples of both 95 and 96 but not multiples of 9120.
+963. How do you calculate the average length of strings in a list that contain exactly fourteen consonants and nine digits?
+964. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+965. How do you find the number of strings in a list that have a length divisible by 27 and contain at least one special character?
+966. Given a list of dates, find the number of dates that fall within the next N years and are specific public holidays.
+967. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+968. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+969. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+970. Given a list of strings, find all strings that start with a specific letter and contain exactly nine digits.
+971. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+972. Find the total number of elements in a list that are divisible by both 19 and 38 but not by 722.
+973. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+974. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+975. How do you find all strings in a list that have an odd length and contain exactly thirteen vowels?
+976. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+977. How do you find the total number of distinct elements in a list of strings that contain exactly fifteen uppercase letters?
+978. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekends.
+979. How do you find all strings in a list that are not palindromes and contain exactly eleven special characters?
+980. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+Let me know when you're ready for the next set!
+938. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekdays.
+939. How do you find all strings in a list that are not palindromes and contain exactly ten special characters?
+940. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+941. How do you find the longest string in a list that contains exactly twenty-one digits?
+942. Given a list of integers, find the total number of elements that are multiples of both 90 and 91 but not multiples of 8190.
+943. How do you calculate the average length of strings in a list that contain exactly thirteen consonants and eight special characters?
+944. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+945. How do you find the number of strings in a list that have a length divisible by 26 and contain at least one special character?
+946. Given a list of dates, find the number of dates that fall within the past N years and are specific anniversaries.
+947. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+948. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+949. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+950. Given a list of strings, find all strings that end with a specific vowel and contain exactly eleven special characters.
+951. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+952. Find the total number of elements in a list that are divisible by both 18 and 36 but not by 216.
+953. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+954. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+955. How do you find all strings in a list that have an even length and contain exactly twelve vowels?
+956. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+957. How do you find the total number of distinct elements in a list of strings that contain exactly fourteen digits and seven special characters?
+958. Given a list of dates, find the date that is exactly N months from a specific date, considering only specific anniversaries.
+959. How do you find all strings in a list that are palindromes and do not contain a specific consonant?
+960. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+961. How do you find the longest string in a list that contains exactly twenty-two uppercase letters?
+962. Given a list of integers, find the total number of elements that are multiples of both 95 and 96 but not multiples of 9120.
+963. How do you calculate the average length of strings in a list that contain exactly fourteen consonants and nine digits?
+964. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and divisible by a specific number.
+965. How do you find the number of strings in a list that have a length divisible by 27 and contain at least one special character?
+966. Given a list of dates, find the number of dates that fall within the next N years and are specific public holidays.
+967. How do you find the total number of distinct substrings of a given length that contain only lowercase letters and digits?
+968. Find all numbers in a list that are perfect cubes, greater than a specific threshold, and not divisible by a specific number.
+969. How do you find the sum of all even numbers in a list that are greater than a specific threshold and less than the median?
+970. Given a list of strings, find all strings that start with a specific letter and contain exactly nine digits.
+971. How do you find the number of distinct characters in each string of a list that are uppercase letters and special characters?
+972. Find the total number of elements in a list that are divisible by both 19 and 38 but not by 722.
+973. How do you get the first N elements in a list that are less than a specific threshold and are multiples of a given number?
+974. Given a list of integers, find the largest number that is a multiple of a specific number and less than a specific threshold.
+975. How do you find all strings in a list that have an odd length and contain exactly thirteen vowels?
+976. Find all integers in a list that are divisible by a specific number, less than a specific threshold, and greater than the median.
+977. How do you find the total number of distinct elements in a list of strings that contain exactly fifteen uppercase letters?
+978. Given a list of dates, find the date that is exactly N days from a specific date, counting only weekends.
+979. How do you find all strings in a list that are not palindromes and contain exactly eleven special characters?
+980. Find the sum of all numbers in a list that are greater than the median and divisible by both a specific number and a prime number.
+Let me know when you're ready for the next set!
+
+
+CONTINUE UPTO 1000
+ChatGPT
+Here’s the continuation up to question 1000:
+
+981. How do you find the longest string in a list that contains exactly twenty-three digits?
+982. Given a list of integers, find the total number of elements that are multiples of both 100 and 101 but not multiples of 10100.
+983. How do you calculate the average length of strings in a list that contain exactly fifteen consonants and ten special characters?
+984. Find all elements in a list of integers that are perfect squares, less than a specific threshold, and not multiples of a specific number.
+985. How do you find the number of strings in a list that have a length divisible by 28 and contain at least one special character?
+986. Given a list of dates, find the number of dates that fall within the past N years and are specific holidays.
+987. How do you find the total number of distinct substrings of a given length that contain only uppercase letters and digits?
+988. Find all numbers in a list that are perfect cubes, less than a specific threshold, and divisible by a specific number.
+989. How do you find the sum of all odd numbers in a list that are less than a specific value and greater than the median?
+990. Given a list of strings, find all strings that end with a specific vowel and contain exactly twelve special characters.
+991. How do you find the number of distinct characters in each string of a list that are lowercase letters and digits?
+992. Find the total number of elements in a list that are divisible by both 20 and 40 but not by 800.
+993. How do you get the first N elements in a list that are greater than the median and are multiples of a specific number?
+994. Given a list of integers, find the largest number that is less than the median and divisible by a specific number.
+995. How do you find all strings in a list that have an even length and contain exactly fourteen vowels?
+996. Find all integers in a list that are divisible by a specific number, greater than a specific threshold, and less than the median.
+997. How do you find the total number of distinct elements in a list of strings that contain exactly sixteen digits and eight special characters?
+998. Given a list of dates, find the date that is exactly N months from a specific date, considering only specific anniversaries.
+999. How do you find all strings in a list that are palindromes and do not contain a specific consonant?
+1000. Find the sum of all numbers in a list that are less than the median and divisible by a specific number and a composite number.
+Feel free to ask if you need any more questions or information!
+
